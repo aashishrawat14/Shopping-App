@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="action_setting">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="intro_title">Welocme to <font color="#39c7a5"> Digital Store </font>\n a <font color="#39c7a5">Gateway </font> to Latest Tech</string>
+
+    <string name="intro_subtitle">Sign in to explore wide range of cutting-edge\n
+        digital products.Dont have an account yet? \n
+        Register now and enjoy a seamless\n
+        and secure shopping experience </string>
+    <string name="signing">ALready have an account?<font color="#39c7a5">Sign In </font></string>
+
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+    <string name="recommendation">Recommendation</string>
+
+
+</resources>
